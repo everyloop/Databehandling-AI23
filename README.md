@@ -10,11 +10,11 @@ For complete course schedule [click here][time_sched]
 
 [time_sched]: https://www.ithsdistans.se/pluginfile.php/86709/mod_resource/content/0/Kursuppl%C3%A4gg.pdf
 
-|    Week     | Content                                                                              |
-| :---------: | ------------------------------------------------------------------------------------ |
-| [43][week1] | series, dataframe, missing data, selection, filtering, aggregate, groupby, seaborn   |
+|    Week     | Content                                                                                         |
+| :---------: | ----------------------------------------------------------------------------------------------- |
+| [43][week1] | series, dataframe, seaborn, file formats, data wrangling, data cleaning, correlation analysis   |
 
-[week1]: https://github.com/everloop/Databehandling-AI23/blob/main/Resources/week1.md
+[week1]: https://github.com/everloop/Databehandling-AI23/blob/main/Resources/Week1.md
 
 ---
 
