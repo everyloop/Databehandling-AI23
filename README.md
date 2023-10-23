@@ -14,7 +14,7 @@ For complete course schedule [click here][time_sched]
 | :---------: | ----------------------------------------------------------------------------------------------- |
 | [43][week1] | series, dataframe, seaborn, file formats, data wrangling, data cleaning, correlation analysis   |
 
-[week1]: https://github.com/everloop/Databehandling-AI23/blob/main/Resources/Week1.md
+[week1]: https://github.com/everyloop/Databehandling-AI23/blob/main/Resources/Week1.md
 
 ---
 
