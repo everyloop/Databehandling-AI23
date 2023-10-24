@@ -27,3 +27,5 @@
 
 - [seaborn.catplot](https://seaborn.pydata.org/generated/seaborn.catplot.html)
   
+- [Seaborn sample datasets](https://github.com/mwaskom/seaborn-data)
+  
