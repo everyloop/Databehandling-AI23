@@ -4,19 +4,14 @@
 
 ## Setup :wrench:
 
-1. Create a new folder for this course 
-2. Create a new pipenvironment with 
-   ```python 
-   pipenv shell
+1. Go to github.com and create a new repo for this course, named: Databehandling-Firstname-Lastname
+2. Clone repo on your local machine: 
+   ```powershell
+   git clone [link-to-repo]
    ```  
-3. Install **numpy**, **pandas**, **matplotlib**, **seaborn**, **openpyxl** and **ipykernel** in this pipenv: 
+3. Create a new pipenvironment in project folder, and install **numpy**, **pandas**, **matplotlib**, **seaborn** and **ipykernel**: 
    ```python 
-   pipenv install numpy 
-   pipenv install pandas
-   pipenv install matplotlib
-   pipenv install seaborn
-   pipenv install openpyxl 
-   pipenv install ipykernel
+   pipenv install numpy pandas matplotlib seaborn ipykernel
    ``` 
 
 ## Video guides :video_camera:
