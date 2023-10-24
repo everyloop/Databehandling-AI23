@@ -15,9 +15,9 @@
    ``` 
 ## Theory :book:
 
-- [Series object](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html?highlight=series#pandas.Series)
+- [Series object](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html?highlight=series)
 
-- [DataFrame object](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html?highlight=dataframe#pandas.DataFrame)
+- [DataFrame object](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html?highlight=dataframe)
 
 - [An introduction to seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
 
