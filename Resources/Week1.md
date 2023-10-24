@@ -6,8 +6,8 @@
 
 1. Go to github.com and create a new repo for this course, named: Databehandling-Firstname-Lastname
 2. Clone repo on your local machine: 
-   ```powershell
-   git clone [link-to-repo]
+   ```python
+   git clone [link-to-your-github-repo]
    ```  
 3. Create a new pipenvironment in project folder, and install **numpy**, **pandas**, **matplotlib**, **seaborn** and **ipykernel**: 
    ```python 
