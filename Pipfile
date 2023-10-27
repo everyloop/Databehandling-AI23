@@ -10,6 +10,7 @@ matplotlib = "*"
 seaborn = "*"
 ipykernel = "*"
 openpyxl = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
