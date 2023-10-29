@@ -1,0 +1,73 @@
+[
+    {
+      "first_name": "John",
+      "last_name": "Doe",
+      "job_title": "Sales Director",
+      "salary": 120000.00,
+      "department": "Sales"
+    },
+    {
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "job_title": "HR Coordinator",
+      "salary": 60000.00,
+      "department": "Human Resources"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "job_title": "Software Engineer",
+      "salary": 110000.00,
+      "department": "IT"
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Williams",
+      "job_title": "Marketing Specialist",
+      "salary": 75000.00,
+      "department": "Sales"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Brown",
+      "job_title": "HR Manager",
+      "salary": 90000.00,
+      "department": "Human Resources"
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Davis",
+      "job_title": "IT Support Specialist",
+      "salary": 55000.00,
+      "department": "IT"
+    },
+    {
+      "first_name": "Jacob",
+      "last_name": "Wilson",
+      "job_title": "Sales Representative",
+      "salary": 80000.00,
+      "department": "Sales"
+    },
+    {
+      "first_name": "Olivia",
+      "last_name": "Moore",
+      "job_title": "Marketing Manager",
+      "salary": 100000.00,
+      "department": "Sales"
+    },
+    {
+      "first_name": "Ethan",
+      "last_name": "Lee",
+      "job_title": "Financial Analyst",
+      "salary": 85000.00,
+      "department": "Sales"
+    },
+    {
+      "first_name": "Sophia",
+      "last_name": "Taylor",
+      "job_title": "HR Assistant",
+      "salary": 50000.00,
+      "department": "Human Resources"
+    }
+  ]
+  
