@@ -12,6 +12,7 @@ ipykernel = "*"
 openpyxl = "*"
 scikit-learn = "*"
 jinja2 = "*"
+lxml = "*"
 
 [dev-packages]
 
