@@ -14,7 +14,7 @@ For complete course schedule [click here][time_sched]
 | :---------: | ----------------------------------------------------------------------------------------------- |
 | [43][week1] | series, dataframe, seaborn, file formats, data wrangling, data cleaning, correlation analysis   |
 | [44][week2] | GDPR, API, Aggregations, Groupby                                                                |
-| [43][week3] | Plotly Express, Concatenate, Join, Merge, Datetimes, Anonymization, Git branches                |
+| [45][week3] | Plotly Express, Concatenate, Join, Merge, Datetimes, Anonymization, Git branches                |
 
 [week1]: https://github.com/everyloop/Databehandling-AI23/blob/main/Resources/Week1.md
 [week2]: https://github.com/everyloop/Databehandling-AI23/blob/main/Resources/Week2.md
