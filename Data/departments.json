@@ -1,0 +1,23 @@
+[
+    {
+        "department_name": "Sales",
+        "department_head": "Sarah Williams",
+        "location": "New York",
+        "office_number": 101,
+        "budget": 1000000
+    },
+    {
+        "department_name": "Human Resources",
+        "department_head": "David Brown",
+        "location": "Chicago",
+        "office_number": 202,
+        "budget": 800000
+    },
+    {
+        "department_name": "IT",
+        "department_head": "Michael Johnson",
+        "location": "San Francisco",
+        "office_number": 303,
+        "budget": 1200000
+    }
+]
