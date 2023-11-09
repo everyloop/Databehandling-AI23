@@ -12,3 +12,9 @@
 
 - [Pandas: Merge, Join, Concatenate](https://pandas.pydata.org/docs/user_guide/merging.html)
 
+- [Pandas: Time series](https://pandas.pydata.org/docs/user_guide/timeseries.html)
+
+- [Time series: Resampling](https://pandas.pydata.org/docs/user_guide/timeseries.html#resampling)
+
+- [Time series: Offset aliases](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#offset-aliases)
+
