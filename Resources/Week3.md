@@ -16,5 +16,5 @@
 
 - [Time series: Resampling](https://pandas.pydata.org/docs/user_guide/timeseries.html#resampling)
 
-- [Time series: Offset aliases](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#offset-aliases)
+- [Time series: Offset aliases](https://pandas.pydata.org/docs/user_guide/timeseries.html#offset-aliases)
 
