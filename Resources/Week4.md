@@ -4,6 +4,8 @@
 
 ## Theory :book:
 
+- [HTML, CSS, and JavaScript](https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/)
+
 - [Dash: Python User Guide](https://dash.plotly.com/)
 
 - [Dash: Layout](https://dash.plotly.com/layout)
