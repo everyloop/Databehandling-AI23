@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #c4f43f;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #0066cc;
+}
+
+#my-id {
+    font-family: wingdings;
+    color: #ff0000;
+}
+
+.purple-wingding {
+    font-family: wingdings;
+    color: #c50977;
+}
+
+p {
+    line-height: 1.5;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a {
+    color: #009900;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

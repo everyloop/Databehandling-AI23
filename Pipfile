@@ -15,6 +15,7 @@ jinja2 = "*"
 lxml = "*"
 plotly-express = "*"
 nbformat = "*"
+dash = "*"
 
 [dev-packages]
 

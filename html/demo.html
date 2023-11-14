@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+    <body>        
+        <h1>HTML Demo</h1>
+        <p class="purple-wingding">This is a demo.</p>
+
+        <h2 onclick="addTechnology()">Front vs backend</h2>
+        <p><b>Fontend: </b>The client-side part of an application that focus on presenting stuff to the end-user</p>
+        <p><b class="purple-wingding">Backend: </b>The server-side part of an application that focus onthe behind-the-scenes, logic, computations, and data storage.</p>
+
+        <div onclick="addTechnology()">
+            <h2 id="my-id">3 basic web technologies:</h2>
+            <ul id="techList">
+                <li><b>HTML: </b>Markup language <span class="purple-wingding">that describes the layout</span> and content of a static web page.</li>
+                <li><b>Javascript: </b>Client side scripting language used to add dynamic functionalityto a webpage.</li>
+                <li><b>CSS: </b>A language used to style a webpage.</li>
+            </ul>
+        </div>
+
+        <h2 class="purple-wingding">Links</h2>
+        <a href="about.html">About this course.</a><br>
+        <a href="https://github.com/everyloop/Databehandling-AI23">Course Gitrepo</a>
+
+        <h2>Add a Technology:</h2>
+        <button onclick="addTechnology()">Add Technology</button>
+    
+        <script src="addTech.js"></script>
+    </body>
+</html>
