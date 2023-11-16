@@ -16,6 +16,7 @@ lxml = "*"
 plotly-express = "*"
 nbformat = "*"
 dash = "*"
+dash-bootstrap-components = "*"
 
 [dev-packages]
 
