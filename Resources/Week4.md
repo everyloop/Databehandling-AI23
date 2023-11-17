@@ -17,3 +17,6 @@
 - [Bootswatch: Free themes](https://bootswatch.com/)
 
 - [Bootstrap: Docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+- [Deploy dash app on render.com](https://www.youtube.com/watch?v=XWJBJoV5yww&ab_channel=CharmingData)
+
