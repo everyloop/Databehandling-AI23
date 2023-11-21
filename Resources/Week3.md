@@ -18,3 +18,8 @@
 
 - [Time series: Offset aliases](https://pandas.pydata.org/docs/user_guide/timeseries.html#offset-aliases)
 
+- [Version control with Git](https://www.youtube.com/watch?v=2sjqTHE0zok)
+
+- [Git for professionals](https://www.youtube.com/watch?v=Uszj_k0DGsg)
+ 
+
